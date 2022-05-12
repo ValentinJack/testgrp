@@ -1,5 +1,5 @@
 let uno = 0;
-let dos = 0
+let dos = 2;
 let tres = 0;
 
 let sum = uno + dos + tres;
