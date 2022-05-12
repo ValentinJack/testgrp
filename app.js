@@ -1,6 +1,6 @@
 let uno = 0;
 let dos = 0
-let tres = 0;
+let tres = 7;
 
 let sum = uno + dos + tres;
 
